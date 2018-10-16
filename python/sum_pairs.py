@@ -1,2 +1,2 @@
 def sum_pairs():
-    return None
+    pass
