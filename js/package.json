@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumPairs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kyle Gunter",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
