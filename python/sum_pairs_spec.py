@@ -26,7 +26,7 @@ class sumPairsTestCase(unittest.TestCase):
         """
         if no pairs are found that add up to target num, return string unfound
         """
-        self.assertEqual(sum_pairs(list[3, 1, 5, 8, 2], 27), 'unable to find pairs')
+        self.assertEqual(sum_pairs(list[3, 1, 5, 8, 2], 27), str)
 
 
 # sum_pairs([1,2,3,4,5], 9) # [[4,5]]
